@@ -1,4 +1,4 @@
-#womeninstem
+Hi, I am Samantha, a current information technology student. I am interested in data science, software engineering, and statistics!
 
 
 <!---
