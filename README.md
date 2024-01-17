@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samantha Diggs</h1>
-<h3 align="center">A passionate, aspiring data scientist & software engineer, and current ITS major in HS🫧/h3>
+<h3 align="center">A passionate, aspiring data scientist & software engineer, and current ITS major in HS🫧 </h3>
 
 - 🎀 I’m currently working on **homeawayfromhome**
 
