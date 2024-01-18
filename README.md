@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [cyberrace](https://github.com/samanthadiggs/cyberrace)
 
-- 📫 How to reach me **[linkedin.com/in/samanthadiggs](https://linkedin.com/in/samanthadiggs)**
+- 📫 How to reach me: Shoot me a DM on **[Linkedin](https://linkedin.com/in/samanthadiggs)**
 
 - ⚡ Fun fact **whenever I am not coding, I am crocheting, learning a new language, or watching kdramas :)**
 
