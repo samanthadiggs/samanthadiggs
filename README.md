@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samantha Diggs</h1>
-<h3 align="center">Freshman @ University of Massachusetts Lowell, majoring in Computer Science with a concentration in Data Science🩰</h3>
+<h3 align="center">Freshman @ University of Massachusetts Lowell, CS major with a concentration in Data Science🩰</h3>
 
 - 🎀 I’m currently working on [**hey voyage**](https://github.com/samanthadiggs/hey-voyage)
 
